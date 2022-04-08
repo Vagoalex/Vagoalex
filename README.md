@@ -1,6 +1,4 @@
-<!-- [![Header](https://github.com/Vagoalex/blob/master/bg/header.png)](https://vk.com/vagoalex) -->
-
-[![Header](./bg/Vagoalex2.png)](https://vk.com/vagoalex)
+[![Header](./bg/Hello%20for%20everyone2.png)](https://vk.com/vagoalex)
 
 ## Hello, I'm [Vago Alex](https://vk.com/vagoalex)
 
