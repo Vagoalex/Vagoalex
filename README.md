@@ -1,4 +1,4 @@
-[![Header](./bg/Hello%20for%20everyone2.png)](https://vk.com/vagoalex)
+[![Header](./bg/new-bg.jpg)](https://vk.com/vagoalex)
 
 ## Hello, I'm [Vago Alex](https://vk.com/vagoalex)
 
@@ -22,6 +22,6 @@
 
 ### My Codewars profile:
 
-[<img align="left" alt="CodeWars" width="320px" src="https://www.codewars.com/users/Vagoalex/badges/large" />][codewars]
+[<img align="left" alt="CodeWars" width="350px" src="https://www.codewars.com/users/Vagoalex/badges/large" />][codewars]
 
 [codewars]: https://www.codewars.com/r/Vagoalex
