@@ -6,7 +6,7 @@
 
 ### Languages and Tools:
 
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=CC0000)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=097CDB)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=E5D3FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F8C52C)
