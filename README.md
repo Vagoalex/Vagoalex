@@ -8,9 +8,12 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=47C5FB)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=097CDB)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=E5D3FF)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=F8C52C)
-![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=F88C00)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=F8C52C)
+![MobX](https://img.shields.io/badge/-mobx-090909?style=for-the-badge&logo=mobx&logoColor=F88C00)
+
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT&logoColor=E5D3FF)
 
 ### Follow Me:
