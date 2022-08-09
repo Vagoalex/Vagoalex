@@ -1,6 +1,6 @@
 [![Header](./bg/new-bg.jpg)](https://vk.com/vagoalex)
 
-## Hello, I'm [Vago Alex](https://vk.com/vagoalex)
+## Hello, I'm [Vago Alex](https://vagoalex.github.io/vago-website-resume/)
 
 ## I'm a Frontend developer (HTML, CSS, JavaScript, React)
 
